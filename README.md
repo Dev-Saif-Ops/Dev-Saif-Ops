@@ -19,7 +19,7 @@
 
 ### About
 
-I'm a Senior Software Engineer at Bottrion Systems Pvt Ltd, where I lead client projects from end to end across backend, frontend, DevOps, and AI. One of those clients is Wazn, a Saudi shipping marketplace that I run as its project manager and solo developer.
+I'm a Senior Software Engineer at Bottrion Systems Pvt Ltd, and a client-facing project manager. I lead client projects from end to end across backend, frontend, DevOps, and AI, and I usually run them as the sole developer.
 
 On my own time I founded RailTC and built Aya ToolWall, an open-source security gateway for AI agents. I like owning the whole thing, from the architecture and the UI to deployment and the SEO that brings in users. I also tend to ship quickly, which is how my lead started calling me "the MVP buster."
 
