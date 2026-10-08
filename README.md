@@ -1,12 +1,12 @@
 <h1 align="center">Mohammad Safwan Athar</h1>
 
 <p align="center">
-  <b>Full-Stack Engineer &amp; Solo Builder</b> &nbsp;·&nbsp; Design → Build → Ship → Run
+  Full-Stack Engineer and Solo Builder
 </p>
 
 <p align="center">
-  I design, build, deploy, and run complete products on my own —<br/>
-  from the first pixel to production and the SEO that brings the traffic.
+  I design, build, deploy, and run complete products on my own, from the<br/>
+  first pixel to production and the SEO that brings in the traffic.
 </p>
 
 <p align="center">
@@ -17,23 +17,25 @@
 
 ---
 
-### 👋 About
+### About
 
-Senior Software Engineer **@ Bottrion Systems** · Founder of **RailTC** · Creator of **Aya ToolWall** · Project Manager &amp; solo developer at **Wazn**.
+I'm a Senior Software Engineer at Bottrion Systems Pvt Ltd, where I lead client projects from end to end across backend, frontend, DevOps, and AI. One of those clients is Wazn, a Saudi shipping marketplace that I run as its project manager and solo developer.
 
-I run several projects at once, end to end — backend, frontend, DevOps, and AI — and ship fast enough that my lead calls me *"the MVP buster."* Language-agnostic by philosophy, engineering-first by practice. Based in New Delhi, open to remote &amp; relocation.
+On my own time I founded RailTC and built Aya ToolWall, an open-source security gateway for AI agents. I like owning the whole thing, from the architecture and the UI to deployment and the SEO that brings in users. I also tend to ship quickly, which is how my lead started calling me "the MVP buster."
 
-### 🚀 Featured work
+Based in New Delhi, and open to remote work or relocation.
+
+### Featured work
 
 | Project | What it is |
 | :-- | :-- |
-| **[RailTC](https://railtc.in)** · `Product` | A PNR prediction engine for Indian Railways. Custom OCR pipeline to bypass costly APIs — thousands of daily users. |
-| **[Wazn](https://wazn.com.sa)** · `Company` | A Saudi shipping marketplace — compare couriers, pay, and track every parcel. I PM and build it solo. |
-| **[Aya ToolWall](https://toolwall.aya-ai.xyz)** · `Open Source` | A fail-closed security gateway for AI agent tool calls. Blocks schema-valid-but-unsafe calls before they run. `pip install toolwall` |
-| **[REZ Enterprise](https://rezenterprise.in)** · `Freelance` | A bold site for a government electrical contractor — designed, built, deployed &amp; SEO-optimized end to end. |
-| **[Mufti Shamail Nadwi](https://muftishamail.com)** · `Freelance` | A full platform — articles, Q&amp;A, consultation booking, a books store, and auth. |
+| **[RailTC](https://railtc.in)** `Product` | A PNR prediction engine for Indian Railways. I built a custom OCR pipeline to replace costly third-party APIs, and it now serves thousands of users a day. |
+| **[Wazn](https://wazn.com.sa)** `Bottrion client` | A Saudi shipping marketplace: compare couriers, pay, and track every parcel. I run it as project manager and solo developer. |
+| **[Aya ToolWall](https://toolwall.aya-ai.xyz)** `Open source` | A fail-closed security gateway for AI agent tool calls. It blocks schema-valid but unsafe calls before they run. Install it with `pip install toolwall`. |
+| **[REZ Enterprise](https://rezenterprise.in)** `Freelance` | A site for a government electrical contractor. I designed, built, deployed, and optimized it for search, start to finish. |
+| **[Mufti Shamail Nadwi](https://muftishamail.com)** `Freelance` | A full platform with articles, a Q&A section, consultation booking, a books store, and user accounts. |
 
-### 🧰 Stack
+### Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
@@ -51,22 +53,22 @@ I run several projects at once, end to end — backend, frontend, DevOps, and AI
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
-![LLMs](https://img.shields.io/badge/LLMs%20%2F%20RAG-412991?style=flat-square&logo=openai&logoColor=white)
+![LLMs and RAG](https://img.shields.io/badge/LLMs%20and%20RAG-412991?style=flat-square&logo=openai&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 ![Technical SEO](https://img.shields.io/badge/Technical%20SEO-0284C7?style=flat-square&logo=googlesearchconsole&logoColor=white)
 
-### 📊 GitHub
+### GitHub
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Dev-Saif-Ops&show_icons=true&hide_border=true&theme=tokyonight&count_private=true" alt="stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Saif-Ops&layout=compact&hide_border=true&theme=tokyonight" alt="top languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Dev-Saif-Ops&show_icons=true&hide_border=true&theme=tokyonight&count_private=true" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Saif-Ops&layout=compact&hide_border=true&theme=tokyonight" alt="Top languages" />
 </p>
 
-<!-- Contribution snake — auto-generated every 12h by .github/workflows/MAIN.yml -->
+<!-- Contribution snake, auto-generated every 12h by .github/workflows/MAIN.yml -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/Dev-Saif-Ops/Dev-Saif-Ops/output/snake.svg" alt="Contribution snake animation" />
 </p>
 
 ---
 
-<p align="center"><i>Design, build, deploy, run — solo, end to end, or leading a team.</i></p>
+<p align="center">I build the whole thing: the design, the backend, the deployment, and the SEO that follows.</p>
