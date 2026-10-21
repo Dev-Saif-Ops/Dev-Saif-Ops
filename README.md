@@ -30,7 +30,6 @@ Based in New Delhi, and open to remote work or relocation.
 | Project | What it is |
 | :-- | :-- |
 | **[RailTC](https://railtc.in)** `Product` | A PNR prediction engine for Indian Railways. I built a custom OCR pipeline to replace costly third-party APIs, and it now serves thousands of users a day. |
-| **[Wazn](https://wazn.com.sa)** `Bottrion client` | A Saudi shipping marketplace: compare couriers, pay, and track every parcel. I run it as project manager and solo developer. |
 | **[Aya ToolWall](https://toolwall.aya-ai.xyz)** `Open source` | A fail-closed security gateway for AI agent tool calls. It blocks schema-valid but unsafe calls before they run. Install it with `pip install toolwall`. |
 | **[REZ Enterprise](https://rezenterprise.in)** `Freelance` | A site for a government electrical contractor. I designed, built, deployed, and optimized it for search, start to finish. |
 | **[Mufti Shamail Nadwi](https://muftishamail.com)** `Freelance` | A full platform with articles, a Q&A section, consultation booking, a books store, and user accounts. |
