@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <a href="https://devsaifops-portfolio.pages.dev"><img src="https://img.shields.io/badge/Portfolio-devsaifops-0284C7?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://devsaifops.com"><img src="https://img.shields.io/badge/Portfolio-devsaifops.com-0284C7?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
   <a href="https://www.linkedin.com/in/mohammad-safwan-athar"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:devsaifops@gmail.com"><img src="https://img.shields.io/badge/Email-devsaifops-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
